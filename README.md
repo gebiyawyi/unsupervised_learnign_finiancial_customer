@@ -1,1 +1,1 @@
-[ml_algorithm/unsupervised/outputs/charts/customer_dendrogram.png]
+(ml_algorithm/unsupervised/outputs/charts/customer_dendrogram.png)
